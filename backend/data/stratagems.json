@@ -1,0 +1,582 @@
+{
+  "LIFT-850 Jump Pack": {
+    "combination": [
+      "down",
+      "up",
+      "up",
+      "down",
+      "up"
+    ],
+    "image": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/5/56/LIFT-850icon.png/revision/latest/scale-to-width-down/40?cb=20240225211732"
+  },
+  "B-1 Supply Pack": {
+    "combination": [
+      "down",
+      "left",
+      "down",
+      "up",
+      "up",
+      "down"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "AX/LAS-5 \"Guard Dog\" Rover": {
+    "combination": [
+      "down",
+      "up",
+      "left",
+      "up",
+      "right",
+      "right"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "SH-20 Ballistic Shield Backpack": {
+    "combination": [
+      "down",
+      "left",
+      "down",
+      "down",
+      "up",
+      "left"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "SH-32 Shield Generator Pack": {
+    "combination": [
+      "down",
+      "up",
+      "left",
+      "right",
+      "left",
+      "right"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "AX/AR-23 \"Guard Dog\"": {
+    "combination": [
+      "down",
+      "up",
+      "left",
+      "up",
+      "right",
+      "down"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "MG-43 Machine Gun": {
+    "combination": [
+      "down",
+      "left",
+      "down",
+      "up",
+      "right"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "APW-1 Anti-Materiel Rifle": {
+    "combination": [
+      "down",
+      "left",
+      "right",
+      "up",
+      "down"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "M-105 Stalwart": {
+    "combination": [
+      "down",
+      "left",
+      "down",
+      "up",
+      "up",
+      "left"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "EAT-17 Expendable Anti-tank": {
+    "combination": [
+      "down",
+      "down",
+      "left",
+      "up",
+      "right"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "GR-8 Recoilless Rifle": {
+    "combination": [
+      "down",
+      "left",
+      "right",
+      "right",
+      "left"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "FLAM-40 Flamethrower": {
+    "combination": [
+      "down",
+      "left",
+      "up",
+      "down",
+      "up"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "AC-8 Autocannon": {
+    "combination": [
+      "down",
+      "left",
+      "down",
+      "up",
+      "up",
+      "right"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "RS-422 Railgun": {
+    "combination": [
+      "down",
+      "right",
+      "down",
+      "up",
+      "left",
+      "right"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "FAF-14 SPEAR Launcher": {
+    "combination": [
+      "down",
+      "down",
+      "up",
+      "down",
+      "down"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "GL-21 Grenade Launcher": {
+    "combination": [
+      "down",
+      "left",
+      "up",
+      "left",
+      "down"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "LAS-98 Laser Cannon": {
+    "combination": [
+      "down",
+      "left",
+      "down",
+      "up",
+      "left"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "ARC-3 Arc Thrower": {
+    "combination": [
+      "down",
+      "right",
+      "down",
+      "up",
+      "left",
+      "left"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "Reinforce": {
+    "combination": [
+      "up",
+      "down",
+      "right",
+      "left",
+      "up"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "SOS Beacon": {
+    "combination": [
+      "up",
+      "down",
+      "right",
+      "up"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "Resupply": {
+    "combination": [
+      "down",
+      "down",
+      "up",
+      "right"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "NUX-223 Hellbomb": {
+    "combination": [
+      "down",
+      "up",
+      "left",
+      "down",
+      "up",
+      "right",
+      "down",
+      "up"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "SSSD Delivery": {
+    "combination": [
+      "down",
+      "down",
+      "down",
+      "up",
+      "up"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "Seismic Probe": {
+    "combination": [
+      "up",
+      "up",
+      "left",
+      "right",
+      "down",
+      "down"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "Upload Data": {
+    "combination": [
+      "down",
+      "down",
+      "up",
+      "up",
+      "up"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "Eagle Rearm": {
+    "combination": [
+      "up",
+      "up",
+      "left",
+      "up",
+      "right"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "Illumination Flare": {
+    "combination": [
+      "right",
+      "right",
+      "left",
+      "left"
+    ],
+    "image": ""
+  },
+  "SEAF Artillery": {
+    "combination": [
+      "right",
+      "up",
+      "up",
+      "down"
+    ],
+    "image": ""
+  },
+  "Super Earth Flag": {
+    "combination": [
+      "down",
+      "up",
+      "down",
+      "up"
+    ],
+    "image": ""
+  },
+  "E/MG-101 HMG Emplacement": {
+    "combination": [
+      "down",
+      "up",
+      "left",
+      "right",
+      "right",
+      "left"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "FX-12 Shield Generator Relay": {
+    "combination": [
+      "down",
+      "down",
+      "left",
+      "right",
+      "left",
+      "right"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "A/ARC-3 Tesla Tower": {
+    "combination": [
+      "down",
+      "up",
+      "right",
+      "up",
+      "left",
+      "right"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "MD-6 Anti-Personnel Minefield": {
+    "combination": [
+      "down",
+      "left",
+      "up",
+      "right"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "MD-I4 Incendiary Mines": {
+    "combination": [
+      "down",
+      "left",
+      "left",
+      "down"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "A/MG-43 Machine Gun Sentry": {
+    "combination": [
+      "down",
+      "up",
+      "right",
+      "right",
+      "up"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "A/G-16 Gatling Sentry": {
+    "combination": [
+      "down",
+      "up",
+      "right",
+      "left"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "A/M-12 Mortar Sentry": {
+    "combination": [
+      "down",
+      "up",
+      "right",
+      "right",
+      "down"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "A/AC-8 Autocannon Sentry": {
+    "combination": [
+      "down",
+      "up",
+      "right",
+      "up",
+      "left",
+      "up"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "A/MLS-4X Rocket Sentry": {
+    "combination": [
+      "down",
+      "up",
+      "right",
+      "right",
+      "left"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "A/M-23 EMS Mortar Sentry": {
+    "combination": [
+      "down",
+      "up",
+      "right",
+      "down",
+      "right"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "Orbital Gatling Barrage": {
+    "combination": [
+      "right",
+      "down",
+      "left",
+      "up",
+      "up"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "Orbital Airburst Strike": {
+    "combination": [
+      "right",
+      "right",
+      "right"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "Orbital 120MM HE Barrage": {
+    "combination": [
+      "right",
+      "right",
+      "down",
+      "left",
+      "right",
+      "down"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "Orbital 380MM HE Barrage": {
+    "combination": [
+      "right",
+      "down",
+      "up",
+      "up",
+      "left",
+      "down",
+      "down"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "Orbital Walking Barrage": {
+    "combination": [
+      "right",
+      "down",
+      "right",
+      "down",
+      "right",
+      "down"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "Orbital Laser": {
+    "combination": [
+      "right",
+      "down",
+      "up",
+      "right",
+      "down"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "Orbital Railcannon Strike": {
+    "combination": [
+      "right",
+      "up",
+      "down",
+      "down",
+      "right"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "Orbital Precision Strike": {
+    "combination": [
+      "right",
+      "right",
+      "up"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "Orbital Gas Strike": {
+    "combination": [
+      "right",
+      "right",
+      "down",
+      "right"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "Orbital EMS Strike": {
+    "combination": [
+      "right",
+      "right",
+      "left",
+      "down"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "Orbital Smoke Strike": {
+    "combination": [
+      "right",
+      "right",
+      "down",
+      "up"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "Eagle Strafing Run": {
+    "combination": [
+      "up",
+      "right",
+      "right"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "Eagle Airstrike": {
+    "combination": [
+      "up",
+      "right",
+      "down",
+      "right"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "Eagle Cluster Bomb": {
+    "combination": [
+      "up",
+      "right",
+      "down",
+      "down",
+      "right"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "Eagle Napalm Airstrike": {
+    "combination": [
+      "up",
+      "right",
+      "down",
+      "up"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "Eagle Smoke Strike": {
+    "combination": [
+      "up",
+      "right",
+      "up",
+      "down"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "Eagle 110MM Rocket Pods": {
+    "combination": [
+      "up",
+      "right",
+      "up",
+      "left"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  "Eagle 500kg Bomb": {
+    "combination": [
+      "up",
+      "right",
+      "down",
+      "down",
+      "down"
+    ],
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  }
+}
